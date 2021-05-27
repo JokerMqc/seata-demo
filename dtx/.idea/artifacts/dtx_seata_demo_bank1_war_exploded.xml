@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dtx-seata-demo-bank1:war exploded">
+    <output-path>$PROJECT_DIR$/dtx-seata-demo-bank1/target/dtx-seata-demo-bank1-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>dtx-seata-demo-bank1</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="dtx-seata-demo-bank1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.alibaba.cloud:spring-cloud-alibaba-seata:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter-openfeign:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-hystrix:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:unknown" />
+          <element id="library" level="project" name="Maven: com.netflix.hystrix:hystrix-javanica:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.retry:spring-retry:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:unknown" />
+          <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:unknown" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:unknown" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:unknown" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/dtx-seata-demo-bank1/target/dtx-seata-demo-bank1-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="dtx-seata-demo-bank1/web/Web" />
+    </root>
+  </artifact>
+</component>

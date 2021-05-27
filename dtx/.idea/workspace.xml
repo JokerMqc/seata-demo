@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d0f0869-a8d0-40f7-85ae-cb5ccfdb1355" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t18Kt12FrzmuWODJH3oMptNHJc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dtx-seata-demo-bank2/src/main/java/com/mqc/seatademo/bank2/service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mqc.seatademo.controller" />
+      <recent name="com.mqc.seatademo.bank2.controller" />
+      <recent name="com.mqc.seatademo.bank2.entity" />
+      <recent name="com.mqc.seatademo.bank2.dao" />
+      <recent name="com.mqc.seatademo.bank2.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yinzi\AAA-Team\dtx\dtx-seata-demo-bank2\src\main\java\com\mqc\seatademo\bank2\service" />
+      <recent name="D:\yinzi\AAA-Team\dtx\dtx-seata-demo-bank2\src\main\resources" />
+      <recent name="D:\yinzi\AAA-Team\dtx\dtx-seata-demo-bank1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BankApp">
+    <configuration name="Bank2Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-seata-demo-bank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mqc.seatademo.bank2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mqc.seatademo.bank2.Bank2Server" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-seata-demo-bank1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mqc.seatademo.BankApp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discover-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.discoverserver.DiscoveryServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BankApp" />
+      <item itemvalue="Spring Boot.DiscoveryServer" />
+      <item itemvalue="Spring Boot.Bank2Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Bank2Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0f0869-a8d0-40f7-85ae-cb5ccfdb1355" name="Default Changelist" comment="" />
+      <created>1621925174004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621925174004</updated>
+      <workItem from="1621925182040" duration="465000" />
+      <workItem from="1621925892311" duration="11201000" />
+      <workItem from="1621991617320" duration="585000" />
+      <workItem from="1622076786712" duration="4062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1621928549693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1621928549693" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622100365568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622100365568" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1621932468467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1621932468467" />
+    <state x="588" y="103" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1621931598061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="103" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621931598061" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621931657186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621931657186" />
+    <state width="1493" height="487" key="GridCell.Tab.0.bottom" timestamp="1622108548604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622108548604" />
+    <state width="1493" height="487" key="GridCell.Tab.0.center" timestamp="1622108548604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622108548604" />
+    <state width="1493" height="487" key="GridCell.Tab.0.left" timestamp="1622108548604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622108548604" />
+    <state width="1493" height="487" key="GridCell.Tab.0.right" timestamp="1622108548604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622108548604" />
+    <state width="1493" height="487" key="GridCell.Tab.1.bottom" timestamp="1622108548605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622108548605" />
+    <state width="1493" height="487" key="GridCell.Tab.1.center" timestamp="1622108548605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622108548605" />
+    <state width="1493" height="487" key="GridCell.Tab.1.left" timestamp="1622108548605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622108548605" />
+    <state width="1493" height="487" key="GridCell.Tab.1.right" timestamp="1622108548605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622108548605" />
+    <state width="1493" height="487" key="GridCell.Tab.2.bottom" timestamp="1622108548606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622108548606" />
+    <state width="1493" height="487" key="GridCell.Tab.2.center" timestamp="1622108548606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1622108548606" />
+    <state width="1493" height="487" key="GridCell.Tab.2.left" timestamp="1622108548605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1622108548605" />
+    <state width="1493" height="487" key="GridCell.Tab.2.right" timestamp="1622108548606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="487" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1622108548606" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1621927734064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621927734064" />
+    <state width="498" height="456" key="SwitcherDM" timestamp="1621934073996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="456" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1621934073996" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1621935525544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1621935525544" />
+    <state x="191" y="0" key="new project wizard" timestamp="1621935788052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="191" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1621935788052" />
+  </component>
+</project>
